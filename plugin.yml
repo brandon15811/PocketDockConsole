@@ -1,4 +1,4 @@
-name: PocketDockConsole
+name: PocketDockConsole 
 prefix: PDC
 main: PocketDockConsole\Main
 version: 0.0.13
